@@ -1,0 +1,221 @@
+[
+    {
+        "id":1,
+        "name":"Josh Michael Klein",
+        "birthday":"December 31st 2001",
+        "from":"Ashburn, VA",
+        "major":"Computer Science",
+        "pledgeClass":"Theta",
+        "bigBrother":"Griffin",
+        "littleBrothers":[{"name":"Dan Nguyen"}, {"name":"Luke Marks"}]
+        
+    }
+,
+    {
+        "id": 2,
+        "name": "Kareem Badr",
+        "birthday": "April 23rd 2002",
+        "from":"Jordan, Oman",
+        "major":"Industrial Systems and Economics",
+        "pledgeClass":"Theta",
+        "bigBrother":"Arush",
+        "littleBrothers":[{"name": "Ryan Recupero"}, {"name": "Evan Flores"}, {"name": "Jake Scott Horowitz"}]
+        
+    }
+    ,
+    {
+        "id": 3,
+        "name": "Zachary Taylor Weiss",
+        "birthday": "April 6th 2002",
+        "from":"Broncs, NY",
+        "major":"Phiopsophy, Computer Science",
+        "pledgeClass":"Theta",
+        "bigBrother":"Griffin",
+        "littleBrothers":[{"name":"Gus"},{"name": "Kenny"}]
+        
+    },
+
+    {
+        "id":4,
+        "name": "Anthony Joseph Nostro",
+        "birthday": "June 26th 2002",
+        "from":"East staudburg, PA",
+        "major":"Mechanical Engineering",
+        "pledgeClass":"Theta",
+        "bigBrother":{"name":"Yuri"},
+        "littleBrothers":[{"name":"David Encarnacion"}, {"name":"Cole Curtis"}]
+        
+    }
+    ,
+    {
+        "id": 5,
+        "name": "Ryan Recupero",
+        "birthday": "April 25th 2003",
+        "from":"Summit, NJ",
+        "major":"Computer Engineering",
+        "pledgeClass":"Mu",
+        "bigBrother":"Kareem Badr",
+        "littleBrothers":[{"name": "Keyan"}],
+        "parent_id":2
+    }
+    ,
+{
+    "id": 6,
+    "name": "Nicholas Luke",
+    "birthday": "July 08 2002",
+    "from":"Millstone, NJ",
+    "major":"Computer Engineering",
+    "pledgeClass":"Lambda",
+    "bigBrother":"Brogan",
+    "littleBrothers":[]
+    
+},
+{
+    "id": 7,
+    "name": "Dominic Hanna",
+    "birthday": "May 2nd 2002",
+    "from":"Grafton, MA",
+    "major":"Automotive and mechanical engineering",
+    "pledgeClass":"Iota",
+    "bigBrother":"Bonzo",
+    "littleBrothers":[{"name":"Edward"}, {"name":"Tyler"}]
+    
+}
+
+,
+{
+    "id":8,
+    "name": "Jake Scott Horowitz",
+    "birthday": "June 16th 2002",
+    "from":"Bridge, NJ",
+    "major":"Computer Science",
+    "pledgeClass":"Iota",
+    "bigBrother":{"name":"Anthony Nostro"},
+    "littleBrothers":[],
+    "parent_id":4
+},
+{
+    "id":9,
+    "name": "Nathan Charels Scollar",
+    "birthday": "July 9th 2002",
+    "from":"Columbia, MD",
+    "major":"Computer Engineering",
+    "pledgeClass":"Kappa",
+    "bigBrother":{"name":"Kenny "},
+    "littleBrothers":[]
+    
+},
+
+{
+    "id":10,
+    "name": "Reginald Carnell Nolan III",
+    "birthday": "August 5th 2003",
+    "from":"Chesapeak, VA",
+    "major":"Computer Science",
+    "pledgeClass":"Lambda",
+    "bigBrother":{"name":"Nate"},
+    "littleBrothers":[]
+    
+},
+
+{
+    "id":11,
+    "name": "Evan Flores Rosado",
+    "birthday": "March 28th 2003",
+    "from":"San Juan",
+    "major":"Industrial Systems Engineering",
+    "pledgeClass":"Kappa",
+    "bigBrother":{"name":"Kareem Badr"},
+    "littleBrothers":[{"name":"Shanay Shah"}],
+    "parent_id":2
+}
+,
+
+{
+    "id":12,
+    "name":"Ilan Litvak",
+    "birthday":"September 4th 2004",
+    "from":"Port Washington, NY",
+    "major":"Biology",
+    "pledgeClass":"Lambda",
+    "bigBrother":{"name":"Dan Nguyen"},
+    "littleBrothers":[{"name":"Amil Bhardwaj"}]
+    
+}
+,
+
+{   
+    "id":13,
+    "name":"Darig Aiden Attridge",
+    "birthday":"May 4th 2003",
+    "from":"Richmond, VA",
+    "major":"Accounting",
+    "pledgeClass":"Kappa",
+    "bigBrother":{"name":"Dawson Bird"},
+    "littleBrothers":[{"name":"Tomas Calvert"}]
+    
+},
+
+{
+    "id":14,
+    "name": "Lukyan Suchachevskyi",
+    "birthday": "January 23 2004",
+    "from":"Manassas, VA",
+    "major":"Computer Engineering",
+    "pledgeClass":"Mu",
+    "bigBrother":{"name":"Lucas Aparicio"},
+    "littleBrothers":[{"name":"Bruce Blake"}],
+    "parent_id":17
+},
+
+{
+    "id":15,
+    "name": "Matthew James Feldman",
+    "birthday": "January 15 2002",
+    "from":"Charlette, NC",
+    "major":"Chemical Engineering",
+    "pledgeClass":"Kappa",
+    "bigBrother":{"name":"Yuri"},
+    "littleBrothers":[{"name":"Lucas Aparicio"}, {"name":"Junaid"}]
+},
+
+{
+    "id":16,
+    "name": "Bruce Blake",
+    "birthday": "March 27th 2005",
+    "from":"Manassas, VA",
+    "major":"Computer Engineering",
+    "pledgeClass":"Nu",
+    "bigBrother":{"name":"Lukyan Suchachevskyi"},
+    "littleBrothers":[],
+    "parent_id":14
+},
+
+{
+    "id":17,
+    "name": "Lucas Aparicio",
+    "birthday": "April 5th 2004",
+    "from":"Reston, VA",
+    "major":"Chemical Engineering",
+    "pledgeClass":"Lambda",
+    "bigBrother":{"name":"Matthew James Feldman"},
+    "littleBrothers":[{"name":"Lukyan Suchachevskyi"}],
+    "parent_id":15
+},
+{
+    "id":18,
+    "name":"Dan Nguyen",
+    "bigBrother":{"name":"Josh Klein"},
+    "littleBrothers":[{"name":"Ilan Litvak"}],
+    "parent_id":1
+},
+
+{
+    "id":19,
+    "name":"Amil Bhardwaj",
+    "bigBrother":{"name":"Ilan Litvak"},
+    "littleBrothers":[],
+    "parent_id":12
+}
+
+]

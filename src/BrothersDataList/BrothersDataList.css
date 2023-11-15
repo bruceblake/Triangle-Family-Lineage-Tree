@@ -1,0 +1,20 @@
+.familyTree {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    height: 600px;
+    margin: 30px 30px 30px 90px ;
+    background-color: #999999;
+    border-radius: 10px;
+    font-size: 12px;
+    font-family: "Microsoft YaHei";
+  
+}
+
+ul{
+    list-style-type: none;
+    position: absolute;
+}
+
+
+

@@ -1,0 +1,11 @@
+.background{
+  background-color: #990733;
+  display: flex;
+  flex-direction: column;
+}
+
+.top{
+  display: flex;
+  flex-direction: row;
+}
+
